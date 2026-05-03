@@ -60,17 +60,17 @@ Key tasks performed:
 
 ## 📈 Output
 
-### 🔹 Temperature Trend Over Time
+### 🔹 Weather Records by month
 
-![Trend](Screenshots/trend.png)
+![Weather Analysis](https://github.com/Puttavamshi/PRODIGY_DS_05/raw/main/Screenshots/weather.png.png)
 
-### 🔹 Monthly Distribution
+### 🔹 Temperature trend over time
 
-![Monthly](Screenshots/monthly.png)
+![Temperature](https://github.com/Puttavamshi/PRODIGY_DS_05/blob/main/Screenshots/temperature.png.png)
 
 ### 🔹 Temperature Distribution
 
-![Distribution](Screenshots/distribution.png)
+![Temp distribution](https://github.com/Puttavamshi/PRODIGY_DS_05/blob/main/Screenshots/temp%20distribution.png)
 
 ---
 
